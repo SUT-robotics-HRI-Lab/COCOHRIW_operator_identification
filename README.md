@@ -3,3 +3,6 @@ Táto práca sa zaoberá autentifikáciou operátora na základe rozpoznávania 
 
 
 Link na váhy pre SNN: https://drive.google.com/file/d/1ao8to5OzmakaNokNbzjKHWZ3r9PzGXCM/view?usp=sharing
+
+
+Návod na inštaláciu, zdrojové kódy a používateľská príručka je v rámci technickej dokumentácie. 
