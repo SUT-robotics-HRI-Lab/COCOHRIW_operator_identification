@@ -1,8 +1,7 @@
-# AUTENTIFIKACIA-OPERATORA-NA-ZAKLADE-TVARE
-Táto práca sa zaoberá autentifikáciou operátora na základe rozpoznávania tváre. Výskum je zameraný na analýzu problematiky autentifikácie osôb a identifikáciu softvérových možností umelej inteligencie a strojového učenia pre rozpoznávanie tváre. Hlavným cieľom je navrhnúť a implementovať softvérový modul pre autentifikáciu na základe tváre.
+# OPERATOR AUTHENTICATION BASED ON FACE RECOGNITION
 
+This work deals with operator authentication based on face recognition. The research focuses on the analysis of the issue of personal authentication and the identification of software solutions using artificial intelligence and machine learning for face recognition. The main goal is to design and implement a software module for authentication based on facial recognition.
 
-Link na váhy pre SNN: https://drive.google.com/file/d/1ao8to5OzmakaNokNbzjKHWZ3r9PzGXCM/view?usp=sharing
+Link to weights for SNN: https://drive.google.com/file/d/1ao8to5OzmakaNokNbzjKHWZ3r9PzGXCM/view?usp=sharing
 
-
-Návod na inštaláciu, zdrojové kódy a používateľská príručka je v rámci dokumentu "Technická dokumentácia.pdf".
+The installation guide, source code, and user manual can be found in the document "Technical Documentation.pdf".
